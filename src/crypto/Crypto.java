@@ -12,7 +12,7 @@ public class Crypto {
     private String algorithm = "caesar";
     private String inputFile = "";
 
-    public Crypto() {
+    Crypto() {
 
     }
 
